@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  background-color: papayawhip;
+}
+.btn {
+  color: yellowgreen;
+  background-color: orange;
+  border-radius: 5px;
+  padding: 10px 10px;
+  text-align: center;
+  display: inline-block;
+  font-size: 15px;
+}
