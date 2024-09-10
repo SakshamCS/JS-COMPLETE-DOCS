@@ -1,6 +1,7 @@
 //string slicing = creating a substring from a portion of another string
 
 //string.slice(start, end)
+//ending index is actually exclusive and we don't include it in the new string we make using slice method
 
 const fullName = 'Bro Code';
 
