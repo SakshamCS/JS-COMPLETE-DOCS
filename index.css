@@ -11,3 +11,8 @@
   display: inline-block;
   font-size: 15px;
 }
+.image {
+  width: 200px;
+  height: 120px;
+  padding: 20px 20px;
+}
