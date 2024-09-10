@@ -7,7 +7,7 @@ const fullName = 'Bro Code';
 
 let firstName = fullName.slice(0, fullName.indexOf(' '));
 let lastName = fullName.slice(fullName.indexOf(' ') + 1);
-
+//added + 1 to remove the space
 console.log(firstName);
 console.log(lastName);
 
